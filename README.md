@@ -54,7 +54,7 @@ In questo modo chi è interessato semplicemente a leggere il consumo totale regi
 |     12295391    |  11 |  88 | 270 | 516 | 774 | 949 | 1133 | 1235 | 1238 | 1238 | 1238 | 1238 |
 |     12295392    |  10 |  75 | 243 | 483 | 634 | 789 |  925 |  971 |  972 |  972 |  972 |  972 |
 
-![Frequenze cumulate assolute](grafici/Consumo_unità_ripartitori_appartamento_(frequenze_cumulate_assolute).svg)
+![Frequenze cumulate assolute](grafici/Consumo_unita_ripartitori_appartamento_(frequenze_cumulate_assolute).svg)
 
 ## Frequenze assolute
 E’ ovviamente molto semplice ricavare la tabella delle frequenze assolute (non cumulate), semplicemente sottraendo dalle mensilità successive il valore dei mesi precedenti.
@@ -71,7 +71,7 @@ In questo caso risulta maggiormente evidente quali sono i mesi in cui il calorif
 |     12295391    |  11 |  77 | 182 | 246 | 258 | 175 | 184 | 102 |  3  |  0  |  0  |  0  |
 |     12295392    |  10 |  65 | 168 | 240 | 151 | 155 | 136 |  46 |  1  |  0  |  0  |  0  |
 
-![Frequenze assolute](grafici/Consumo_unità_ripartitori_appartamento_(frequenze_assolute).svg)
+![Frequenze assolute](grafici/Consumo_unita_ripartitori_appartamento_(frequenze_assolute).svg)
 
 ## Conclusione
 Per concludere possiamo dire che una verifica di questo tipo sui vostri ripartitori non è di solito necessaria, infatti la ditta che ha in gestione l’impianto del vostro condominio utilizza sistemi radio per leggere i ripartitori e i dati che riceve sono quasi sempre corretti.
@@ -101,4 +101,4 @@ Possiamo vedere da questa tabella come ogni ripartitore abbia differenti coeffic
 |    12295391 (bagno)   |      1238      |   0,86  |  1061 |
 |  12295392 (camera 1)  |       972      |   1,32  |  1286 |
 
-![Valore attuale ripartitori](grafici/Unità_valore_attuale_ripartitori.svg)
+![Valore attuale ripartitori](grafici/Unita_valore_attuale_ripartitori.svg)
